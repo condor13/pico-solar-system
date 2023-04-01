@@ -8,7 +8,6 @@ import time
 import math
 import gc
 import machine
-from my_lib import RTC_DS3231
 from micropython import const
 
 motion = PiicoDev_LIS3DH()
